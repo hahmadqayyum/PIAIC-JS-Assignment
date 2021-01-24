@@ -3,4 +3,4 @@ var lastName = "Ahamd";
 
 var age = 18;
 
-alert("Hello " + firstName +" "+ lastName + "!"+" " + "You are" + " " + age + " " + "years old");
+alert("Hello " + firstName + " " + lastName + "!" + " " + "You are" + " " + age + " " + "years old");
